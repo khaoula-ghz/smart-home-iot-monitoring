@@ -260,7 +260,7 @@ CMD ["python", "app.py"]
 ### Alarms
 
 | Alarm | Metric | Condition | Threshold | 
-|---|---|---|---|---|
+|---|---|---|---|
 | Humidity | Humidity | > threshold, avg, 60s | 50% | 
 | Temperature | Temperature | > threshold, min, 60s | 30°C | 
 | Smoke-Detection | Smoke | ≥ threshold, max, 30s | 1 | 
